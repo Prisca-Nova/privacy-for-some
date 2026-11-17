@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.key
+.ipynb_checkpoints/
+results/*MOCK*
+results/*_test.jsonl
